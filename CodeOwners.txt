@@ -1,0 +1,6 @@
+Code Owners
+
+We4Data GmbH
+- Olaf Mennerich
+ETAS GmbH
+- Thilo Wenzel
